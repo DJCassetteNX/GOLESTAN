@@ -1,0 +1,6 @@
+@import "./style.css";
+
+@font-face {
+  font-family: "IranSans";
+  src: url("../fonts/IRANSansLight.woff"), url("../fonts/english.woff2 ");
+}
